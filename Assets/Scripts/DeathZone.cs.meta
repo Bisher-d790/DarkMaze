@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1ef0e16dc500241089a26d8ad04f1108
+timeCreated: 1517073951
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - SFX: {fileID: 8300000, guid: b1fa0e844159d4eb288de1581e550fd9, type: 3}
+  - Enemy: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
